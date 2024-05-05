@@ -16,3 +16,4 @@ You need to set `commandUseWorldEdit` to false and `pasteNbtRestoreBehavior` to 
 
 Tile entity data won't be pasted again if the block state matches the schematic though
 
+
